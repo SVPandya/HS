@@ -26,23 +26,23 @@ function About() {
     const teamMembers: TeamMember[] = [
         {
             name: 'Aaryan Parikh',
-            role: 'CEO Cofounder',
+            role: 'CEO & Co-Founder',
         },
         {
             name: 'Neel Parpia',
-            role: 'CTO Cofounder',
+            role: 'CTO & Co-Founder',
         },
         {
             name: 'Eshaan E',
-            role: 'Senior Developer',
+            role: 'Senior Software Developer',
         },
         {
-            name: 'Parkar Rathore',
-            role: 'Senior Developer',
+            name: 'Prakhar Rathore',
+            role: 'Senior Software Developer',
         },
         {
             name: 'Nicholas Wang',
-            role: 'Undecided'
+            role: 'Co-Founder'
         },
         {
             name: 'Robert McCrary',
